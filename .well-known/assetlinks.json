@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "co.mvpfactory.etoken_bwi",
+            "sha256_cert_fingerprints": [
+                "73:9C:01:31:D8:0F:47:9C:C0:49:DE:E6:23:11:A7:6E:33:95:26:CE:03:76:55:56:40:9F:43:C5:64:67:99:BD"
+            ]
+        }
+    }
+]

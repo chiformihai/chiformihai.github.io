@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appID": "M7P67CXT5T.tech.mcro.etoken.dev",
+             "components": [
+               {
+                  "/": "*"
+               }
+             ],
+             "paths": [ "*" ]
+           }
+       ]
+   }
+}
